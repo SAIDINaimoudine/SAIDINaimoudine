@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/115423104/211849478-83e1897c-3cda-449b-a969-a5041bb55e47.png#gh-light-mode-only" alt="banner" height=600/>
-<img src="https://user-images.githubusercontent.com/115423104/211849989-9acc6723-c4af-48e3-86be-581a35854361.png#gh-dark-mode-only" alt="banner" height=600/>
+<img src="https://user-images.githubusercontent.com/115423104/211849478-83e1897c-3cda-449b-a969-a5041bb55e47.png#gh-light-mode-only" alt="banner" height=600 width=100%/>
+<img src="https://user-images.githubusercontent.com/115423104/211849989-9acc6723-c4af-48e3-86be-581a35854361.png#gh-dark-mode-only" alt="banner" height=600 width=100%/>
 
 <h1> Naïmoudine SAIDI </h1>
 <p>Hello, I'am Naïmoudine a junior developer based in Grenoble, France. I am currently training as a full stack web developer. I really like coding and I'm excited by the though that I could do it for a living.</p>
