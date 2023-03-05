@@ -1,5 +1,5 @@
 <h1> Naïmoudine SAIDI </h1>
-<p>Hello, I'am Naïmoudine a junior developer based in Grenoble, France. I am currently training as a full stack web developer. I really like coding and I'm excited by the though that I could do it for a living.</p>
+<p>Hello, I'am Naïmoudine a developer based in Grenoble, France. I am currently training as a full stack web developer. I really like coding and I'm excited by the though that I could do it for a living.</p>
 
 - 🔭 I’m currently working on projects for my portfolio</li>
 - 🌱 I’m currently learning Reactjs & tailwindcss</li>
